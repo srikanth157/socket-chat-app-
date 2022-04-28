@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.snd-btn{
+  background-color: #3986d3;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width:90px;
+  height: 40px;
+  font-size: 15px;
+  margin: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.input-text{
+  height: 50px;
+  width: 300px;
+}
